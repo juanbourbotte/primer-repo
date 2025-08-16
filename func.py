@@ -18,6 +18,9 @@ def datos():
         print("No esta permitido sexo femenino en el equipo masculino")
     else:
         print("Sexo no reconocido. Por favor ingrese 'hombre' o 'mujer'.")
+def decir_nombre():
+    print ("Tu sueldo de Jubilado es de 900000 ARS")
 datos()
+decir_nombre()
 
 
