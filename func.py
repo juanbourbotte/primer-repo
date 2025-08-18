@@ -19,8 +19,9 @@ def datos():
     else:
         print("Sexo no reconocido. Por favor ingrese 'hombre' o 'mujer'.")
 def decir_nombre():
-    print ("Tu sueldo de Jubilado es de 900000 ARS")
+    print ("Tu sueldo de Jubilado es de 1000000 ARS")
 datos()
 decir_nombre()
+
 
 
